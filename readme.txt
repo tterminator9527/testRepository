@@ -1,2 +1,2 @@
-local commit
+local commit,but remote edit
 remote file
